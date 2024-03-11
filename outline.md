@@ -26,3 +26,8 @@ Blog:
 contatct:
 home:
 login:
+
+STARTING:
+template
+venv
+django structure
